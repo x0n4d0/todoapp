@@ -1,0 +1,20 @@
+{
+  "name": "frameworkless-todoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0n4d0/boilerplate-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x0n4d0/boilerplate-nextjs/issues"
+  },
+  "homepage": "https://github.com/x0n4d0/boilerplate-nextjs#readme"
+}
