@@ -1,23 +1,23 @@
 {
-  "name": "frameworkless-todoapp",
+  "name": "todoapp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "An simple Todo List application.",
+  "author": "Maurício Romagnoli <x0n4d0>",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "https://github.com/x0n4d0/boilerplate-nextjs#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/x0n4d0/boilerplate-nextjs.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/x0n4d0/boilerplate-nextjs/issues"
   },
-  "homepage": "https://github.com/x0n4d0/boilerplate-nextjs#readme",
+  "scripts": {
+    "dev:web": "npx live-server ./packages/web"
+  },
   "devDependencies": {
-    "http-server": "^14.1.0"
+    "http-server": "^14.1.0",
+    "live-server": "^1.2.2"
   }
 }
