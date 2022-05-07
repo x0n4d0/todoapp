@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/x0n4d0/boilerplate-nextjs/issues"
   },
-  "homepage": "https://github.com/x0n4d0/boilerplate-nextjs#readme"
+  "homepage": "https://github.com/x0n4d0/boilerplate-nextjs#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
 }
