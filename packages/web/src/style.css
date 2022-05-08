@@ -1,0 +1,10 @@
+@import "./theme/colors.css";
+@import "./theme/reset.css";
+
+body {
+  background-color: var(--background-color-dark);
+}
+
+h1 {
+  color: var(--primary-color-dark);
+}
